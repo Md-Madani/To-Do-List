@@ -66,3 +66,7 @@ Number of pending tasks.
 
 ## 9. Saving Tasks:
 Whenever the user chooses to exit the app, or when tasks are modified (added, deleted, or marked as completed), the tasks are saved to a JSON file. This allows the list to persist even after the app is closed and reopened.
+
+## Summary:
+
+This To-Do List app is a basic task management tool that helps users organize their tasks by adding, viewing, marking as completed, and deleting tasks. The app ensures that tasks are stored persistently and allows the user to track statistics for better productivity management. The ability to prevent duplicate tasks ensures that users don't accidentally add the same task multiple times.
